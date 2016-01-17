@@ -3,14 +3,18 @@ Here are the following weekly report on my production and development of my work
 
 ##Introduction
 
-The context of these reports are concerning the tinkering graphics and audio projects set during the first semester.
+The context of these reports are concerning the projects set during the first semester.
 
 ##Week 1 - Worksheet 1 _SpaceChem_
+
 During the introduction of each section, I learned new ways to reduce the number of symbols, or functions, required to complete each circuit. While following and attempting to test out different approaches to different required molecule shapes or reformation, I began to adapt faster solutions with fewer symbols used.
 
 This can be demonstrated by achieving the High Performance for "Every Day Is The First Day" which met the criteria of creating a circuit with fewer than 300 cycles. These skills for reducing the number of functions required to tackle a problem and find a solution are going to be useful when constructing code.
 
+For future tasks, I can apply this method of problem solving and going back to previous coding problems having practised a technique with another project.
+
 ##Week 2 - Strings
+
 Within COMP120 we began to experiment with the introduction of string text, which creates a word saved into the JES programme that is assigned to a particular value. For example if x = "apple", then the resulting _print_ function would look give this: 
 ```
 print x  
@@ -21,25 +25,20 @@ When combining this string format, it is possible to create more interesting use
 print x+y  
 applefruit.
 ```
-This is an example of how I have started to learn the basics about JES and how it can be used and improved.
+
+This is an example of how I have started to learn the basics about JES and how it can be used and improved. This is a technique that is applied to all functions in project such as my tinkering projects. I found this task easy to understand and could easily apply this to my own values or strings.
+
+This has improved my confidence as this is a good starting point for coding.
 
 ##Week 3 - Games Platform History Essay
 
-//group presentations / researching task
-//the same topic was covering the the same group
-//have a set plan and updating work to show group project
+The focus of this week was the start of our first essay, with group presentations that included work that our team had assembled together with individual focus on one console of the specified generation. It was a chance at our first group project and allowed different findings to group together which would help our research into our essay. I feel that my confidence could hinder this task and should attempt to engage in discussion.
 
-The focus of this week was the start of our first essay, with group presentations that included work that our team had assembled together with individual focus on one console of the specified generation. It was a chance at our first group project and allowed different findings to group together which would help our research into our essay.
+After being given research information about how to collect and reference our sources, I have been given the task of researching into the SG-1000. This should continue research into the task while only presentation relevent information.
 
-After being given research information about how to collect and reference our sources, I have been given the task of researching into the SG-1000.
-
-After our presentation, I would have improved it with better group communication as there were some topics covered twice during individual research. Also, the length of our presentation could have been simplified which would have meant that there'd be no reading from the screen.
+After our presentation, I would have improved it with better group communication as there were some topics covered twice during individual research. Also, the length of our presentation could have been simplified which would have meant that there'd be no reading from the screen. For the future, I should set time for group discussion so that we could have all seen each others notes before presenting
 
 ##Week 4 - Image Manipulation
-
-//turtles
-//struggled with class
-//immediately questioned lecturer after class and remained in class until code functional
 
 Additional uses for JES have been demonstrated, such as the use of turtles to generate images and also image maniupulation. Altering the colour and pixel position would have great use for our COMP120 assignment which required image manipulation.
 
@@ -48,10 +47,6 @@ I struggled with this task, and with the coding process. I immediately attempted
 After being assigned our pair programming groups, we have decided to compelte the tasks of creating an interactive mood board and power-ups. Both of these tasks involve sci-fi genre so interest our group.
 
 ##Week 5 - Picture Techniques & Essay Peer Reviews
-
-//colour ranges
-//struggled with distances
-//attempt to dedicate an hour to practise in class demonstration
 
 To complete our COMP120 assignment, we learnt more about picture techniques including changing colours based on certain colour ranges, found colour distances between two colours and also restricted these changes to certain pixels. I found this task difficult, confusing my getColor function assuming that getColor(black) was required instead of actually black.getColor().
 
@@ -93,6 +88,8 @@ I have also been assigned a new essay task so I should start researching and dra
 
 The additional information on referencing and how python uses classes was helpful in using them in my coding task. The use of access control was also useful in understand when and where a class can be referenced. For my coding taskings, I should practise this method of using classes.
 
+For me, this could be implemented in my tinkering projects, and would later improve my coding comprehension. For the future, I should make sure to always use classes to create sophistication.
+
 ##Week 8
 
 We learned about memory allocation, usage and how to rewrite or expand memory space. We also looked at the use of lists and tuples, however it seemed confusing how pythons approach was different to other coding languages. The use of dictionaries was a useful method to consider when thinking about databases and creating referencing.
@@ -101,13 +98,11 @@ I have spent additional research time on this topic and should attempt to includ
 
 ##Week 9
 
-The use of modules provided more opportunity for making my tinkering code more sophisticated as it allowed for calling a module from a different program, similar to how kivy calls other files into the code.
+The use of modules provided more opportunity for making my tinkering code more sophisticated as it allowed for calling a module from a different program, similar to how kivy calls other files into the code. The ability to predict an error is useful in giving guidance to the user should an error occur.
 
-The ability to predict an error is useful in giving guidance to the user should an error occur.
+We also examined the execution time of a program and how this scales with the project size. I am still unsure of the use of Big O and should ask for further guidance on this as I struggled during the socrative quiz. Having studied A level maths, I understood the common complexity classes graphs.
 
-We also examined the execution time of a program and how this scales with the project size. I am still unsure of the use of Big O and should ask for further guidance on this as I struggled during the socrative quiz.
-
-Having studied A level maths, I understood the common complexity classes graphs.
+For next week, I should attempt to ask my lecturer about my struggles or research more into the Big O.
 
 ##Week 10
 
@@ -147,11 +142,17 @@ With our peer reviews and lecturer feedback, I should be able to make the final 
 
 ##Week 12
 
+I have completed the parsing tokens task after consulting my lecturer. I was directed to my class notes and when asked, had the appropriate sections explained in a way I understood. This has greatly improved my confidence as my audio project is now complete and fully function.
+
+Also, I have tidied up my graphics project and implemented the final requirements based off my lecture review. In addition to my kivy app, I feel that my time management has improved.
+
+For future projects, I should aim to start planning and appropriate time management sooner as I have found this to be crucial.
+
 #Weakness
 
 ##Time managament
 
-When working on projects, I struggle to manage my time proper. Attempting to balance my personal responsibilities with my work demands while maintaining time for myself to relax has been difficult to do. Finding set times to do work has improved my concentration during my work sessions and allowed for less guilty relaxation time.
+When working on projects, I struggle to manage my time proper. Finding set times to do work has improved my concentration during my work sessions.
 
 For example, I preferred to work on some projects more than others as the content was more enjoyment material to learn and so I was more confident in my research and knowledge. This meant that some projects were worked on less than others and so my knowledge didn't improve and my confidence was low.
 
